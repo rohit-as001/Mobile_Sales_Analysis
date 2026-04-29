@@ -58,7 +58,7 @@ The dashboard enables stakeholders to explore sales dynamically based on Month, 
 
 6️) Payment Method Analysis
 
-  - UPI (~27%) and Debit Card (~25%) are the most preferred payment methods.
+  - UPI (~26.36%) and Debit Card (~24.72%) are the most preferred payment methods.
   - Cash and Credit Card usage are slightly lower but still significant.
   - Reflects strong adoption of digital payments.
 
